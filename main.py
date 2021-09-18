@@ -24,6 +24,8 @@ def daily_participants(participants_list):
 
 
 
+
+
 def one_time_participants(participants_list):
   all=participants_list[0:]
   s=[]
